@@ -145,3 +145,13 @@ body {
   padding-top: 0rem!important;
   padding-bottom: 0.25rem!important;
 }
+
+#join-form {
+  margin: 60px;
+  padding: 2px 20px;
+
+}
+
+#join-form h4 {
+  text-align: center;
+}
